@@ -9,7 +9,7 @@ st.markdown("Bienvenido a la versión de prueba de ElottoIA.")
 st.markdown("**Solo está disponible el modo de generación Aleatorio.**")
 st.markdown("")
 
-st.markdown("> 🧪 **Si quieres disfrutar de todas las ventajas que ofrece nuestra versión extendida y mejorada, prueba la [versión web completa](https://manolitogafotas75.github.io/elottoia-premium-login/)**")
+st.markdown("> 🧪 **Si quieres disfrutar de todas las ventajas que ofrece nuestra versión extendida y mejorada, prueba la versión web completa justo debajo (botón verde) (https://elottoia-landing.onrender.com//)**")
 
 # Idioma
 lang = st.selectbox("🌐 Idioma / Language", ["Español", "English"])
