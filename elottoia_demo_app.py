@@ -9,7 +9,8 @@ st.markdown("Bienvenido a la versión de prueba de ElottoIA.")
 st.markdown("**Solo está disponible el modo de generación Aleatorio.**")
 st.markdown("")
 
-st.markdown("> 🧪 **Si quieres disfrutar de todas las ventajas que ofrece nuestra versión extendida y mejorada, prueba la versión web completa por tan solo 4,99 €.Encontrarás el enlace de compra pulsando el botón verde de versión completa,pulsa aqui para volver a la página anterior (https://elottoia-landing.onrender.com//)**")
+st.markdown("> 🧪 **Si quieres disfrutar de todas las ventajas que ofrece nuestra versión extendida y mejorada, prueba la versión web completa por tan solo 4,99 €.Botón verde de versión completa.
+Pulsa aqui para volver a la página anterior (https://elottoia-landing.onrender.com//)**")
 
 # Idioma
 lang = st.selectbox("🌐 Idioma / Language", ["Español", "English"])
