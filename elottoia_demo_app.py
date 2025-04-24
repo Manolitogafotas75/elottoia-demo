@@ -5,10 +5,10 @@ st.set_page_config(page_title="ElottoIA DEMO", layout="centered")
 
 st.title("🎰 ElottoIA - Versión Demo")
 st.markdown("Bienvenido a la versión de prueba de ElottoIA.")
-st.markdown("**Solo está disponible el modo de generación Aleatorio.**")
+st.markdown("**En esta demo solo está disponible el modo de generación Aleatorio.**")
 st.markdown("")
 
-st.markdown("""> 🧪 **Si quieres disfrutar de todas las ventajas que ofrece nuestra versión extendida y mejorada, prueba la versión web completa por tan solo 4,99 € en el Botón Verde de versión completa.
+st.markdown("""> 🧪 **Para disfrutar de todas las ventajas que ofrece nuestra versión extendida y mejorada, prueba la versión web completa por tan solo 4,99 € en el Botón Verde de versión completa.
 Pulsa aqui para volver a la página anterior (https://elottoia-landing.onrender.com//)**""")
 
 # Idioma
