@@ -9,7 +9,7 @@ st.markdown("**En esta demo solo está disponible el modo de generación Aleator
 st.markdown("")
 
 st.markdown("""> 🧪 **Para disfrutar de todas las ventajas que ofrece nuestra versión extendida y mejorada, prueba la versión web completa por tan solo 4,99 € en el Botón Verde de versión completa.
-Pulsa aqui para volver a la página anterior (https://elottoia-landing.onrender.com//)**""")
+Pulsa aqui para volver a la página anterior (https://elottoia-site.onrender.com//)**""")
 
 # Idioma
 lang = st.selectbox("🌐 Idioma / Language", ["Español", "English"])
